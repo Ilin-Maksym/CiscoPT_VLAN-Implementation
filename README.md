@@ -226,7 +226,7 @@ Internet_Router# copy running-config startup-config
 
 Internet_Router# exit
 
-## Test Scenarious
+## Test Scenarios
 To ensure connectivity and functionality, the following tests were performed:
 
   * Ping tests: Successful pings between routers and PCs.
